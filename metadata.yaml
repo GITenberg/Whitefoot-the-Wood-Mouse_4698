@@ -1,5 +1,8 @@
 _repo: Whitefoot-the-Wood-Mouse_4698
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
 description: Whitefoot the wood mouse spends a busy year in the Great Forest trying
   to find a safe home and avoiding his enemies.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4698#Whitefoot-the-Wood-Mouse
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
